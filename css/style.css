@@ -1,0 +1,65 @@
+
+h1{font-size:64px;}
+h2{font-size:48px;}
+h3{font-size:36px;}
+h4{font-size:24px;}
+h5{font-size:24px;}
+h6{font-size:18px;}
+
+html, body, h4, h5, h6 {
+    font-family: 'Fira Sans', sans-serif;
+  }
+/*you're H1*/
+h1, h2 {
+    font-family: 'IM Fell English', serif;
+    font-style: italic;
+}
+/*you're H2*/
+h3 {
+    font-family: 'IM Fell English', serif;
+}
+/*you're H3*/
+h4 {
+    font-weight: 700;
+}
+/*you're Q1*/
+h5 {
+    font-weight: 600;
+    font-style: italic;
+}
+/*you're L1*/
+h6 {
+    font-weight: 500;
+    font-style: italic;
+    text-decoration: underline;
+}
+/*you're B1*/
+body {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.w3-theme-chocolate {
+    color:#c8bfc0 !important;background-color:#242224 !important}
+.w3-theme-puce {
+    color:#c8bfc0 !important;background-color:#493338 !important}
+.w3-theme-ash {
+    color:#fff !important;background-color:#615c61 !important}
+.w3-theme-mauve {
+    color:#fff !important;background-color:#998189 !important}
+.w3-theme-antique {
+    color:#000 !important;background-color:#c8bfc0 !important}
+.w3-theme-sea {
+    color:#000 !important;background-color:#91AAA2 !important}
+
+img {
+    width: 80%;
+    max-width: 600px;
+    min-width: 450px;
+}
+/*lighter color for the small text over Puce*/
+.light-text {
+    color: #dfd9db;
+}
+.main {
+}
